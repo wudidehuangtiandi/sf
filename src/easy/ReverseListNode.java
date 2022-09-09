@@ -1,11 +1,6 @@
 package easy;
 
 
-import structure.linkedList.MyLinkedList;
-
-import java.sql.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * 反转链表
